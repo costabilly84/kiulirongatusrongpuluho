@@ -1,0 +1,4 @@
+baseURL = "https://musicguijuyu.vercel.app"
+languageCode = "en-us"
+title = "Easy Sheet Music Free 2021"
+theme = "hugo-theme-minos"
